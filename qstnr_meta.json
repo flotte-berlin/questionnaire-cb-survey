@@ -1,0 +1,2064 @@
+{
+  "viewtype": "3",
+  "isPublic": true,
+  "items": [
+    {
+      "type": "label",
+      "text": "1. Was war der Grund für Deine Ausleihe? (maximal drei Antworten)",
+      "index": 0,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "3",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 1
+    },
+    {
+      "type": "check",
+      "text": "Neugierde – wollte es ausprobieren",
+      "index": 1,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Kindertransport",
+      "index": 2,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Ausflug",
+      "index": 3,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Einkauf",
+      "index": 4,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Transport von großen (sperrigen) Gütern",
+      "index": 5,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Tiertransport",
+      "index": 6,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Veranstaltung",
+      "index": 7,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Berufliche oder gewerbliche Zwecke",
+      "index": 8,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "check",
+      "text": "Anderes",
+      "index": 9,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "label",
+      "text": "2. Wie viele Kilometer bist Du ungefähr mit dem Lastenrad gefahren? (bitte nur die Zahl angeben)",
+      "index": 10,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 2
+    },
+    {
+      "type": "number",
+      "text": "",
+      "index": 11,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "1000",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 3
+    },
+    {
+      "type": "label",
+      "text": "3. Wie viele Kilometer musstest Du ungefähr bis zum Standort zurücklegen? (bitte nur die Zahl angeben)",
+      "index": 12,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 3
+    },
+    {
+      "type": "number",
+      "text": "",
+      "index": 13,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "1000",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 4
+    },
+    {
+      "type": "label",
+      "text": "4. Womit hättest Du deine Fahrt hauptsächlich gemacht, wenn es fLotte nicht gäbe?",
+      "index": 14,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 4
+    },
+    {
+      "type": "option",
+      "text": "Keine Angabe",
+      "index": 15,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "option",
+      "text": "Mit dem Auto",
+      "index": 16,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "option",
+      "text": "Mit dem Fahrrad",
+      "index": 17,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "option",
+      "text": "Mit öffentlichen Verkehrsmitteln",
+      "index": 18,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "option",
+      "text": "Zu Fuß",
+      "index": 19,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "option",
+      "text": "Gar nicht",
+      "index": 20,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "label",
+      "text": "5. Wie oft bist Du schon mit einem Lastenrad gefahren? ",
+      "index": 21,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 5
+    },
+    {
+      "type": "option",
+      "text": "Keine Angabe",
+      "index": 22,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 6
+    },
+    {
+      "type": "option",
+      "text": "Das war das 1. Mal",
+      "index": 23,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 6
+    },
+    {
+      "type": "option",
+      "text": "2-4 Mal",
+      "index": 24,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 6
+    },
+    {
+      "type": "option",
+      "text": "5-7 Mal",
+      "index": 25,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 6
+    },
+    {
+      "type": "option",
+      "text": "8 Mal oder öfter",
+      "index": 26,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 6
+    },
+    {
+      "type": "label",
+      "text": "6. Welches Lastenrad-Modell bevorzugst Du? (maximal drei Antworten)",
+      "index": 27,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "3",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 6
+    },
+    {
+      "type": "check",
+      "text": "Dreirädrig",
+      "index": 28,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "check",
+      "text": "Zweirädrig",
+      "index": 29,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "check",
+      "text": "Mit offener Kiste",
+      "index": 30,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "check",
+      "text": "Mit geschlossener Kiste",
+      "index": 31,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "check",
+      "text": "Mit Ladefläche ohne Kiste",
+      "index": 32,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "check",
+      "text": "Ohne E-Motor",
+      "index": 33,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "check",
+      "text": "Mit E-Motor",
+      "index": 34,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "label",
+      "text": "7. Mieten oder besitzen: Welche der folgenden Aussagen trifft auf dich zu? (nur eine Antwort möglich)",
+      "index": 35,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 7
+    },
+    {
+      "type": "radio",
+      "text": "Ich brauche kein eigenes Lastenrad, ich miete lieber bei Bedarf",
+      "index": 36,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 8
+    },
+    {
+      "type": "radio",
+      "text": "Ich denke über die Anschaffung eines eigenen Lastenrads nach",
+      "index": 37,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 8
+    },
+    {
+      "type": "radio",
+      "text": "Ich würde gern gemeinschaftlich (z.B. mit Freunden oder Nachbarn) ein Lastenrad anschaffen und nutzen",
+      "index": 38,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 8
+    },
+    {
+      "type": "label",
+      "text": "8. Nenne drei Aspekte, die Dir bei fLotte-Standorten besonders wichtig sind (maximal drei Antworten)",
+      "index": 39,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "3",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 8
+    },
+    {
+      "type": "check",
+      "text": "Lage soll eine einfache Einbindung in meine täglichen Wege ermöglichen",
+      "index": 40,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "check",
+      "text": "Gute Erreichbarkeit mit öffentlichen Verkehrsmitteln",
+      "index": 41,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "check",
+      "text": "Sichere Abstellmöglichkeit für mein eigenes Rad",
+      "index": 42,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "check",
+      "text": "Gute fußläufige Erreichbarkeit",
+      "index": 43,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "check",
+      "text": "Verfügbarkeit von anderen Sharing-Angeboten in der Umgebung",
+      "index": 44,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "check",
+      "text": "Möglichst ausgedehnte Öffnungszeiten der Station",
+      "index": 45,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "check",
+      "text": "Bei Problemen Unterstützung durch Personal vor Ort ",
+      "index": 46,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "label",
+      "text": "9. Was ist im Alltag Dein Hauptverkehrsmittel? (nur eine Antwort möglich)",
+      "index": 47,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 9
+    },
+    {
+      "type": "option",
+      "text": "Keine Angabe",
+      "index": 48,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Fahrrad",
+      "index": 49,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Zu Fuß",
+      "index": 50,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Öffentliche Verkehrsmittel",
+      "index": 51,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Eigenes Auto",
+      "index": 52,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Carsharing",
+      "index": 53,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Ich nutze keines der genannten überwiegend, sondern nutze regelmäßig verschiedene Verkehrsmittel ",
+      "index": 54,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "option",
+      "text": "Sonstiges",
+      "index": 55,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "label",
+      "text": "10. Gibt es in Deinem Haushalt einen Pkw? (nur eine Antwort möglich)",
+      "index": 56,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 10
+    },
+    {
+      "type": "radio",
+      "text": "Ja",
+      "index": 57,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 11
+    },
+    {
+      "type": "radio",
+      "text": "Nein",
+      "index": 58,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 11
+    },
+    {
+      "type": "label",
+      "text": "11. Wie alt bist Du? (nur eine Antwort möglich)",
+      "index": 59,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 11
+    },
+    {
+      "type": "number",
+      "text": "",
+      "index": 60,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "100",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 12
+    },
+    {
+      "type": "label",
+      "text": "12. Geschlecht (nur eine Antwort möglich)",
+      "index": 61,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 12
+    },
+    {
+      "type": "option",
+      "text": "Keine Angabe",
+      "index": 62,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 13
+    },
+    {
+      "type": "option",
+      "text": "Weiblich",
+      "index": 63,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 13
+    },
+    {
+      "type": "option",
+      "text": "Männlich",
+      "index": 64,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 13
+    },
+    {
+      "type": "option",
+      "text": "Anderes",
+      "index": 65,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 13
+    },
+    {
+      "type": "label",
+      "text": "13. Wie viele Personen wohnen in Deinem Haushalt? (bitte nur die Zahl angeben)",
+      "index": 66,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 13
+    },
+    {
+      "type": "number",
+      "text": "",
+      "index": 67,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "100",
+      "minnumber": "1",
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 14
+    },
+    {
+      "type": "label",
+      "text": "14. Darunter wie viele Kinder? (bitte nur die Zahl angeben)",
+      "index": 68,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 14
+    },
+    {
+      "type": "number",
+      "text": "",
+      "index": 69,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "100",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 15
+    },
+    {
+      "type": "label",
+      "text": "15. Wie bist du auf fLotte aufmerksam geworden? (maximal zwei Antworten)",
+      "index": 70,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": "2",
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 15
+    },
+    {
+      "type": "check",
+      "text": "Presse, Radio, TV",
+      "index": 71,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "Soziale Medien",
+      "index": 72,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "Freunde oder Bekannte",
+      "index": 73,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "Beruflich bedingt",
+      "index": 74,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "Veranstaltung",
+      "index": 75,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "ADFC",
+      "index": 76,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "Durch die Ausleihstation",
+      "index": 77,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "check",
+      "text": "Sonstiges",
+      "index": 78,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "label",
+      "text": "16. Hast Du noch weitere Anregungen für fLotte?",
+      "index": 79,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 16
+    },
+    {
+      "type": "text",
+      "text": "",
+      "index": 80,
+      "img": {
+
+      },
+      "required": false,
+      "constraint": {
+
+      },
+      "rows": 5,
+      "year": true,
+      "month": true,
+      "day": true,
+      "wday": false,
+      "hour": false,
+      "min": false,
+      "sec": false,
+      "maxnumber": 999999,
+      "minnumber": 0,
+      "minyear": 1900,
+      "maxyear": 2100,
+      "qid": 17
+    }
+  ],
+  "usefss": false,
+  "fss": "",
+  "notifyflag": false,
+  "unique_email": false,
+  "unique_name": false,
+  "unique_ip": false,
+  "unique_browser": false,
+  "unique_cookie": false,
+  "cookie_expire_months": 0,
+  "cookie_expire_days": 365,
+  "cookie_expire_hours": 0,
+  "cookie_expire_mins": 0,
+  "disappear_after_answer": false,
+  "form_alternative_content_answered": "<br><i>Der Fragebogen wurde schon ausgefüllt.</i>",
+  "disappear_after_timeout": false,
+  "form_expire_datetime": "2018-12-22T19:45",
+  "form_alternative_content_expired": "",
+  "use_action_setting": true,
+  "ack_type": "dialogbox",
+  "action_cond": {
+    "none": null
+  },
+  "submit_text": "Absenden",
+  "ack_text": "Danke für die Beantwortung unserer Fragen!",
+  "dismiss_text": "Ok",
+  "mdv": "2.0",
+  "transit": [
+    {
+      "default": true,
+      "url": ""
+    }
+  ],
+  "success": true
+}
