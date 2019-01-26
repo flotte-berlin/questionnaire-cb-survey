@@ -20,7 +20,7 @@ Um eine Umfrage zu erstellen, die mit Buchungen verknüpft ist, müssen die Word
 
 ## Verwendung
 
-Um die Daten zu importieren, folge dieser [Anleitung](https://github.com/flotte-berlin/questionnaire-cb#how-can-i-backup-questionnaires). Dann kannst du die Fragen im Questionnaire Admin Bereich anpassen. Wahrscheinlich willst du 'fLotte' mit deinem Projektnamen ersetzen.
+Um die Daten zu importieren, folge dieser [Anleitung](https://github.com/flotte-berlin/questionnaire-cb#how-can-i-backup-questionnaires) (Copy/Paste). Dann kannst du die Fragen im Questionnaire Admin Bereich anpassen. Wahrscheinlich willst du 'fLotte' mit deinem Projektnamen ersetzen.
 
 ---
 
@@ -34,7 +34,7 @@ To create a survey that is connected to bookings you have to install the Wordpre
 
 ## How to use?
 
-To import the data follow these [instructions](https://github.com/flotte-berlin/questionnaire-cb#how-can-i-backup-questionnaires). Then you can edit the questions in the Questionnaire admin section. You probably want to replace 'fLotte' bei your project name.
+To import the data follow these [instructions](https://github.com/flotte-berlin/questionnaire-cb#how-can-i-backup-questionnaires) (Copy/Paste). Then you can edit the questions in the Questionnaire admin section. You probably want to replace 'fLotte' bei your project name.
 
 ---
 
