@@ -879,7 +879,7 @@
     },
     {
       "type": "label",
-      "text": "7. Mieten oder besitzen: Welche der folgenden Aussagen trifft auf dich zu? (nur eine Antwort möglich)",
+      "text": "7. Mieten oder besitzen: Welche der folgenden Aussagen trifft auf dich zu?",
       "index": 35,
       "img": {
 
@@ -1179,7 +1179,7 @@
     },
     {
       "type": "label",
-      "text": "9. Was ist im Alltag Dein Hauptverkehrsmittel? (nur eine Antwort möglich)",
+      "text": "9. Was ist im Alltag Dein Hauptverkehrsmittel?",
       "index": 47,
       "img": {
 
@@ -1404,7 +1404,7 @@
     },
     {
       "type": "label",
-      "text": "10. Gibt es in Deinem Haushalt einen Pkw? (nur eine Antwort möglich)",
+      "text": "10. Gibt es in Deinem Haushalt einen Pkw?",
       "index": 56,
       "img": {
 
@@ -1479,7 +1479,7 @@
     },
     {
       "type": "label",
-      "text": "11. Wie alt bist Du? (nur eine Antwort möglich)",
+      "text": "11. Wie alt bist Du?",
       "index": 59,
       "img": {
 
@@ -1529,7 +1529,7 @@
     },
     {
       "type": "label",
-      "text": "12. Geschlecht (nur eine Antwort möglich)",
+      "text": "12. Geschlecht",
       "index": 61,
       "img": {
 
